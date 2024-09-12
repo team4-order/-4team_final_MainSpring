@@ -35,3 +35,5 @@ out/
 
 ### VS Code ###
 .vscode/
+
+demo2/target/
